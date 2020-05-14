@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589406676 source:c:\users\crspy\desktop\cpu_scheduling\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<assert.h>
+
